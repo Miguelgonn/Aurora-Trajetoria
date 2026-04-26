@@ -15,7 +15,7 @@ O sistema **MGPEB** controla pousos autônomos de módulos essenciais, utilizand
 - História da computação  
 - ESG e governança tecnológica  
 
-# 🌌 Sobre a Missão Aurora Siger
+## 🌌 Sobre a Missão Aurora Siger
 
 A missão **Aurora Siger** representa a primeira tentativa sustentada de estabelecer uma colônia permanente em Marte.
 
@@ -31,7 +31,7 @@ A área principal de aterrissagem foi denominada **Plataforma Alpha**.
 
 Todos os pousos são gerenciados de forma autônoma pelo **MGPEB**, sem dependência de comunicação imediata com a Terra.
 
-# 🎯 Objetivo do MGPEB
+## 🎯 Objetivo do MGPEB
 
 O sistema foi projetado para:
 
@@ -42,9 +42,9 @@ O sistema foi projetado para:
 ✅ Registrar histórico operacional  
 ✅ Auxiliar a sobrevivência inicial da colônia  
 
-# 🛰️ Módulos da Fase Inicial
+## 🛰️ Módulos da Fase Inicial
 
-## HAB-01 — Habitação
+### HAB-01 — Habitação
 
 Módulo de maior criticidade humana da missão.
 
@@ -53,7 +53,7 @@ Módulo de maior criticidade humana da missão.
 - suporte à vida;
 - áreas de convivência.
 
-## ENE-01 — Energia
+### ENE-01 — Energia
 
 Responsável pelo fornecimento elétrico da base.
 
@@ -61,20 +61,20 @@ Responsável pelo fornecimento elétrico da base.
 - baterias;
 - gerador de backup.
 
-## LAB-01 — Laboratório Científico
+### LAB-01 — Laboratório Científico
 
 Voltado para pesquisas geológicas, climáticas e bioquímicas.
 
 Também auxilia no monitoramento ambiental.
 
-## LOG-01 — Logística
+### LOG-01 — Logística
 
 - veículos de superfície;
 - ferramentas;
 - peças;
 - suprimentos gerais.
 
-## MED-01 — Suporte Médico
+### MED-01 — Suporte Médico
 
 - equipamentos cirúrgicos;
 - farmácia;
@@ -82,9 +82,9 @@ Também auxilia no monitoramento ambiental.
 - apoio psicológico.
 
 
-# 🧠 Estruturas de Dados Utilizadas
+## 🧠 Estruturas de Dados Utilizadas
 
-## Fila Principal (FIFO)
+### Fila Principal (FIFO)
 
 Gerencia módulos aguardando pouso.
 
@@ -92,11 +92,11 @@ Exemplo:
 
 HAB-01 pousa → ENE-01 torna-se o próximo.
 
-## Lista de Pousados
+### Lista de Pousados
 
 Armazena módulos já instalados na superfície.
 
-## Lista de Espera
+### Lista de Espera
 
 Módulos temporariamente impedidos.
 
@@ -106,7 +106,7 @@ Exemplo:
 - combustível em alerta;
 - clima desfavorável.
 
-## Lista de Alerta
+### Lista de Alerta
 
 Módulos em condição crítica.
 
@@ -114,12 +114,12 @@ Exemplo:
 
 LOG-01 com combustível crítico.
 
-## Pilha de Decisões (LIFO)
+### Pilha de Decisões (LIFO)
 
 Permite desfazer a última decisão operacional via override manual.
 
 
-# 🔌 Regras Lógicas de Pouso
+## 🔌 Regras Lógicas de Pouso
 
 O sistema só autoriza pouso se todas as condições forem verdadeiras:
 
