@@ -133,3 +133,49 @@ if combustivel_ok and clima_ok and pista_livre and sensores_ok:
     print("Pouso autorizado")
 else:
     print("Pouso adiado")
+```
+## 💻 Contextualização Histórica e Arquitetural do Sistema
+
+### Dos Computadores de Propósito Geral aos Sistemas Embarcados
+
+O desenvolvimento do **MGPEB** está diretamente relacionado à evolução histórica da computação. As primeiras ideias de máquinas programáveis surgiram no século XIX com **Charles Babbage**, por meio da Máquina Diferencial e da Máquina Analítica.
+
+Na década de 1940, o **ENIAC (1945)** marcou o início dos computadores eletrônicos de propósito geral. Embora enorme e energeticamente ineficiente, abriu caminho para sistemas capazes de realizar cálculos complexos automaticamente.
+
+Em seguida, a **Arquitetura de Von Neumann** revolucionou a computação ao permitir que programas e dados fossem armazenados na mesma memória, criando a base dos computadores modernos.
+
+Com a evolução dos **transistores** e dos **circuitos integrados**, tornou-se possível miniaturizar computadores, reduzir consumo energético e aumentar confiabilidade. Esse avanço permitiu o surgimento dos **sistemas embarcados**, projetados para executar funções específicas em ambientes críticos.
+
+### Aplicações Espaciais
+
+O projeto se inspira em sistemas históricos utilizados em missões reais, como:
+
+- **Apollo Guidance Computer (AGC)** — responsável pela navegação das missões Apollo;
+- **Viking (1976)** e **Pathfinder (1997)**;
+- **Curiosity (2012)**, equipado com processador **RAD750**, resistente à radiação.
+
+Esses sistemas priorizam confiabilidade acima de desempenho bruto.
+
+### Limitações de Hardware em Marte
+
+O MGPEB considera desafios reais de uma missão marciana:
+
+- **Radiação ionizante**, capaz de corromper memória eletrônica;
+- **Memória limitada**, exigindo estruturas simples e eficientes;
+- **Baixo poder de processamento**, comum em computadores espaciais;
+- **Energia escassa**, especialmente durante tempestades de poeira;
+- **Latência Terra-Marte**, inviabilizando controle humano em tempo real.
+
+### Impacto no Projeto MGPEB
+
+Essas restrições justificam as escolhas adotadas no sistema:
+
+- uso de algoritmos simples e auditáveis;
+- estruturas lineares como filas, listas e pilhas;
+- lógica booleana explícita;
+- código modular em Python;
+- autonomia operacional para decisões críticas.
+
+### Conclusão
+
+O MGPEB não representa apenas um exercício acadêmico, mas uma simulação coerente dos desafios reais enfrentados por engenheiros de software espacial. Cada decisão tomada no projeto reflete princípios utilizados em missões históricas e futuras operações humanas em Marte.
