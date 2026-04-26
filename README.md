@@ -1,6 +1,6 @@
-# 🚀 Aurora Siger | MGPEB
+## 🚀 Aurora Siger | MGPEB
 
-## Módulo de Gerenciamento de Pouso e Estabilização de Base
+### Módulo de Gerenciamento de Pouso e Estabilização de Base
 
 Projeto acadêmico desenvolvido para simular uma **missão interplanetária de colonização em Marte**, com foco no gerenciamento inteligente da fase de pouso e da implantação inicial da base.
 
