@@ -186,6 +186,7 @@ O MGPEB não representa apenas um exercício acadêmico, mas uma simulação coe
 
 <img width="596" height="843" alt="image" src="https://github.com/user-attachments/assets/19413fb9-3d01-4dfb-a6ea-25aaaff70210" />
 
+<img width="539" height="756" alt="image" src="https://github.com/user-attachments/assets/6182b9a8-0122-4f5f-8f0c-6fc6cb660c69" />
 
 ----------
 
