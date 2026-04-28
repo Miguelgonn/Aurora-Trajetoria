@@ -15,7 +15,7 @@ modulos = [
     {
         "nome": "Habitação",
         "prioridade": 1,
-        "combustivel": 75,
+        "combustivel": 24,
         "massa": 12,
         "criticidade": "Alta",
         "chegada": "08:00"
@@ -23,7 +23,7 @@ modulos = [
     {
         "nome": "Energia",
         "prioridade": 2,
-        "combustivel": 60,
+        "combustivel": 13,
         "massa": 8,
         "criticidade": "Alta",
         "chegada": "09:30"
@@ -31,7 +31,7 @@ modulos = [
     {
         "nome": "Suporte Médico",
         "prioridade": 2,
-        "combustivel": 20,
+        "combustivel": 45,
         "massa": 4,
         "criticidade": "Alta",
         "chegada": "10:00"
@@ -39,7 +39,7 @@ modulos = [
     {
         "nome": "Lab. Científico",
         "prioridade": 3,
-        "combustivel": 45,
+        "combustivel": 56,
         "massa": 6,
         "criticidade": "Média",
         "chegada": "11:00"
@@ -47,7 +47,7 @@ modulos = [
     {
         "nome": "Logística",
         "prioridade": 4,
-        "combustivel": 30,
+        "combustivel": 53,
         "massa": 10,
         "criticidade": "Média",
         "chegada": "13:00"
