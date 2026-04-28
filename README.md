@@ -183,10 +183,15 @@ O MGPEB não representa apenas um exercício acadêmico, mas uma simulação coe
 
 ### Diagrama 
 
+<img width="596" height="843" alt="image" src="https://github.com/user-attachments/assets/19413fb9-3d01-4dfb-a6ea-25aaaff70210" />
+
+
 ----------
 
 ### Tabela Verdade 
+
 <img width="1123" height="793" alt="image" src="https://github.com/user-attachments/assets/acb664b4-0ee2-4aae-a523-9a88c4358b89" />
+
 
 <img width="1122" height="798" alt="image" src="https://github.com/user-attachments/assets/3da39199-9bf9-49c9-ba1c-ecc92c17e78e" />
 
