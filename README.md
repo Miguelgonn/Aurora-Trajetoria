@@ -180,6 +180,7 @@ Essas restrições justificam as escolhas adotadas no sistema:
 
 O MGPEB não representa apenas um exercício acadêmico, mas uma simulação coerente dos desafios reais enfrentados por engenheiros de software espacial. Cada decisão tomada no projeto reflete princípios utilizados em missões históricas e futuras operações humanas em Marte.
 
+## Print De Execução
 
 ### Diagrama 
 
