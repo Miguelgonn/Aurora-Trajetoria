@@ -179,3 +179,38 @@ Essas restrições justificam as escolhas adotadas no sistema:
 ### Conclusão
 
 O MGPEB não representa apenas um exercício acadêmico, mas uma simulação coerente dos desafios reais enfrentados por engenheiros de software espacial. Cada decisão tomada no projeto reflete princípios utilizados em missões históricas e futuras operações humanas em Marte.
+
+
+### Diagrama 
+
+----------
+
+### Tabela Verdade 
+<img width="1123" height="793" alt="image" src="https://github.com/user-attachments/assets/acb664b4-0ee2-4aae-a523-9a88c4358b89" />
+
+<img width="1122" height="798" alt="image" src="https://github.com/user-attachments/assets/3da39199-9bf9-49c9-ba1c-ecc92c17e78e" />
+
+---------------
+
+### Pouso Aprovado
+
+<img width="1296" height="766" alt="image" src="https://github.com/user-attachments/assets/9f3ca1f7-8b4b-4148-a71b-12a411650b11" />
+
+
+<img width="1332" height="777" alt="image" src="https://github.com/user-attachments/assets/c8819199-5e80-4415-ad45-ed9ed6e3356f" />
+
+----------
+### Pouso Liberado Com Emergência
+
+<img width="1296" height="769" alt="image" src="https://github.com/user-attachments/assets/cd5a3cb1-636a-462e-8d9d-c3dcf2ce4b66" />
+
+<img width="1299" height="772" alt="image" src="https://github.com/user-attachments/assets/35b2e1d5-38db-4a02-948a-9326d6992345" />
+
+-----------
+
+### Pouso Interrompido
+
+<img width="1306" height="766" alt="image" src="https://github.com/user-attachments/assets/b24ecc1f-683d-4d78-9b6e-68ed4be1d637" />
+
+<img width="1294" height="775" alt="image" src="https://github.com/user-attachments/assets/ee1e9f4c-2f0e-4efc-a670-d2e24921a0a3" />
+
